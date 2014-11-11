@@ -1,0 +1,23 @@
+- title: Home
+  page_url: '/index.html'
+  url: './index.html'
+
+- title: Coaching
+  page_url: '/coaching.html'
+  url: './coaching.html'
+
+- title: Walking&nbsp;the&nbsp;walk
+  page_url: '/walking-the-walk.html'
+  url: './walking-the-walk.html'
+
+- title: Blog
+  page_url: '/blog.html'
+  url: './blog.html'
+
+- title: About
+  page_url: '/about.html'
+  url: './about.html'
+  
+- title: Contact
+  page_url: '/contact.html'
+  url: './contact.html'

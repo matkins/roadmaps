@@ -112,12 +112,11 @@ body {
   background:#fff;
 }
 header {
-  background:$primaryColour url(/img/map-cover.jpg) center -630px no-repeat;
-  background-size:1024px auto;
+  background:$primaryColour url(../img/map-cover.jpg) center -280px no-repeat;
 }
 header .container{
-  padding-top:80px;
-  padding-bottom:60px;
+  padding-top:100px;
+  padding-bottom:40px;
   background:transparent;
 }
 .header-inner {
@@ -231,7 +230,7 @@ h2 {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
   color: #fff;
-  background-color: $secondaryColour;
+  background-color: #7A7B36;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus,
@@ -239,7 +238,7 @@ h2 {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:focus {
   color: #fff;
-  background-color: $secondaryColour;
+  background-color: #7A7B36;
 }
 .navbar-default .navbar-nav>.open>a .caret,
 .navbar-default .navbar-nav>.open>a:hover .caret,

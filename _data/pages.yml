@@ -1,6 +1,6 @@
 - title: Home
   page_url: '/index.html'
-  url: './index.html'
+  url: '/'
 
 - title: Coaching
   page_url: '/coaching.html'
